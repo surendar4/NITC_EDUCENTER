@@ -1,1 +1,2 @@
 # NITC_EDUCENTER
+The idea is to develop an online portal for the stu- dents of NITC to interact with alumni and faculty for queries regarding completed projects, ongoing projects and new project ideas using Angular Java Script framework. Completed project reports and project ideas can be posted and viewed by the users. Where a student can choose projects to work with the help of faculty and seniors by this process one can get good access to new projects in different areas and helps students grow in that way recommended.
